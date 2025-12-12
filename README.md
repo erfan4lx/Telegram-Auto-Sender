@@ -5,7 +5,7 @@ A free GUI tool to send automatically your scheduled messages to more than 400 T
 
 ## ✨ Features
 - Accounts login & management
-- Send your messages to more than 400 Telegram groups
+- Send your messages to more than 400 Telegram groups (your target groups)
 - Multiple accounts and proxies support
 - Live status & logs UI
 
