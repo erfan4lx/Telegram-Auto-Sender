@@ -13,7 +13,7 @@ A free GUI tool to send automatically your scheduled messages to more than 400 T
 [![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/TPWUvZpAVu4/)
 
 ## 🚀 Get it from our Website 🚀
-🌐 **Website:** [**https://erfan4lx.com/product/telegram-restricted-content-forwarder/**](https://erfan4lx.com/) 
+🌐 **Website:** [**https://erfan4lx.com/**](https://erfan4lx.com/) 
 
 # 🚀 How to Use
 ```bash
